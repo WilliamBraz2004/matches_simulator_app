@@ -8,7 +8,7 @@ Aplicativos que simula partidas de futebol, com Java e Kotlin. Do curso Java e K
 
 <h2>📱Telas do projeto</h2>
 
-<img src="" width="200px"/> <img src="" width="200px"/> <img src="" width="200px"/> 
+<img src="https://user-images.githubusercontent.com/86376135/170046338-7d283fd5-e9e6-4c36-ad3a-a3af93538296.jpg" width="200px"/><img src="https://user-images.githubusercontent.com/86376135/170046352-7a1b1df7-6a58-42d7-80b3-95326ca5bdff.jpg" width="200px"/>
 
 <h2>✒️Autor</h2>
 
